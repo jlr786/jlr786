@@ -1,6 +1,6 @@
 Hello 👋
 
-<img src="https://github.com/jlr786/jlr786/master/banner.png" alt="Hello world">
+<img src="https://github.com/jlr786/jlr786/master/banner.png" alt="Hello world"> 
 
 <p align="center"> 
   Visitor count<br>
