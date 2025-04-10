@@ -2,7 +2,7 @@
 My name is Jacob and I am PKI Security Engineer specializing in the adminstration and management of HashiCorp Vault. Some of my daily responsibilities include working with private and public sections of PKI, managing our code signing platform and developin IaC with Terraform.
 
 ### Certifications
-<img height="80" width="80" src="https://images.credly.com/size/340x340/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png" /> 
+<img height="120" width="120" src="https://images.credly.com/size/340x340/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png" /> 
 
 ### Languages
 <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash" /> <img height="32" width="32" src="https://cdn.simpleicons.org/python" /> <img height="32" width="32" src="https://cdn.simpleicons.org/terraform" /> 
