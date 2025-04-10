@@ -4,7 +4,7 @@ My name is Jacob and I am PKI Security Engineer specializing in the adminstratio
 ---
 
 ### Certifications
-<img height="140" width="140" src="https://images.credly.com/size/340x340/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png" /> 
+<img height="150" width="150" src="https://images.credly.com/size/340x340/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png" /> 
 
 ---
 ### Languages
