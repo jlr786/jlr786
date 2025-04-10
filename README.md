@@ -1,9 +1,4 @@
-<img src="https://raw.githubusercontent.com/jlr786/jlr786/master/banner.png" alt="Hello world"> 
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jlr786/count.svg" />
-</p>
+### PKI Security Engineer at Sherwin-Williams
 
 ### Languages
 <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash" /> <img height="32" width="32" src="https://cdn.simpleicons.org/python" /> <img height="32" width="32" src="https://cdn.simpleicons.org/terraform" /> 
