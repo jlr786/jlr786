@@ -1,5 +1,3 @@
-Hello 👋
-
 <img src="https://raw.githubusercontent.com/jlr786/jlr786/master/banner.png" alt="Hello world"> 
 
 <p align="center"> 
