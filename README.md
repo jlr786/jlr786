@@ -1,5 +1,5 @@
 ### About Me 👋
-My name is Jacob and I am PKI Security Engineer at Sherwin-Williams. I work with tools such as HashiCorp Vault and Terraform, Keyfactor Command and Signum, or DigiCert CertCentral.
+My name is Jacob and I am PKI Security Engineer at Sherwin-Williams. I work with tools such as HashiCorp Vault and Terraform, Keyfactor Command and Signum, or DigiCert.
 
 ---
 ### Certifications
