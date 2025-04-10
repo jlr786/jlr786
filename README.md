@@ -10,3 +10,6 @@
 
 ### Tools
  <img height="32" width="32" src="https://cdn.simpleicons.org/github" /> <img height="32" width="32" src="https://cdn.simpleicons.org/vault" />
+
+### Links
+- [LinkedIn](https://www.linkedin.com/in/jacob-renner-34a66b185/)
